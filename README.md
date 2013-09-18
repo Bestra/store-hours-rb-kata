@@ -1,6 +1,17 @@
 # Store Hour Formatting Exercise
 
+## Installation
+
+Candidate should clone just the master branch using:
+
+```
+git clone -b master git@github.com:edgecase/date_restriction_exercise.git
+```
+
+## Purpose
+
 The purpose of this problem is to dynamically reproduce the store hour display style that is commonly seen on the front door of businesses.
+
 
 ## Examples
 
